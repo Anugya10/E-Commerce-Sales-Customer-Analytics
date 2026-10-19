@@ -41,7 +41,7 @@ The objective is to analyze transactional data and provide management with a cle
 
 The project uses a synthetic e-commerce dataset containing 50,000 orders in JSON format.
 
-**Source file:** `ecommerce_50000_orders.json`
+**Source file:** [E-Commerce Dataset (JSON)](data/ecommerce_5000_orders.json)
 
 The dataset contains order details, customer information, payment information, and product-level transaction data.
 
