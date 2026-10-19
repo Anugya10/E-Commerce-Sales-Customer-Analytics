@@ -32,10 +32,10 @@ The objective is to analyze transactional data and provide management with a cle
 1. Python - Extracting and transforming nested JSON data 
 2. Pandas - Data manipulation and DataFrame creation 
 3. MySQL - Relational data storage and database management 
-| SQL | Data analysis, joins, aggregations, CTEs, subqueries, and window functions 
-| SQL Views | Preparing reusable analytical datasets and Power BI source views 
-| Power BI | Data modeling, interactive reports, and dashboard development 
-| DAX | Creating KPIs and analytical measures 
+4. SQL - Data analysis, joins, aggregations, CTEs, subqueries, and window functions 
+5. SQL Views - Preparing reusable analytical datasets and Power BI source views 
+6. Power BI - Data modeling, interactive reports, and dashboard development 
+7. DAX - Creating KPIs and analytical measures 
 
 ## Dataset Overview
 
