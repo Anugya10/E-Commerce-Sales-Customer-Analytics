@@ -63,7 +63,7 @@ select
 from monthly_growth
 order by month;
 
--- Customer Analytics
+-- Customer Analysis
 
 -- 5. What is the Customer Lifetime Value (CLV) for each customer?
 select
